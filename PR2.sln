@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR2", "PR2\PR2.csproj", "{B317325C-2DEF-4B09-AEA3-252EBD115389}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR2", "PR2\PR2.csproj", "{B317325C-2DEF-4B09-AEA3-252EBD115389}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introduction_of_the_budget", "..\Introduction_of_the_budget\Introduction_of_the_budget\Introduction_of_the_budget.csproj", "{28B0897F-B41C-4D4E-A1C7-1F0BEC5945FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B317325C-2DEF-4B09-AEA3-252EBD115389}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B317325C-2DEF-4B09-AEA3-252EBD115389}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B317325C-2DEF-4B09-AEA3-252EBD115389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B0897F-B41C-4D4E-A1C7-1F0BEC5945FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B0897F-B41C-4D4E-A1C7-1F0BEC5945FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B0897F-B41C-4D4E-A1C7-1F0BEC5945FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B0897F-B41C-4D4E-A1C7-1F0BEC5945FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
